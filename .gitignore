@@ -1,0 +1,15 @@
+# Environment secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+/dist/
+**/dist/
